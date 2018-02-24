@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>src/restaurant/Randomization.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>153</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/restaurant/IndividualClient.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/restaurant/Crossover.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/restaurant/IndividualClient.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/restaurant/Client.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/restaurant/HorizontalRoad.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/restaurant/BusinessClient.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/restaurant/Restaurant.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/restaurant/Vehicle.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/GUI2/GuiMain.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/restaurant/Map.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/GUI2/GuiMap.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/restaurant/VerticalRoad.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/restaurant/DishSet.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/restaurant/OccasionalClient.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/restaurant/RegularClient.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/restaurant/Main.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/restaurant/SingleDish.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/GUI2/AddIndividualClient.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/GUI2/addBusinessClient.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/GUI2/PaintedMap.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/restaurant/DeliveryPoint.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/GUI2/AddDeliveryMan.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/restaurant/PointOnMap.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/restaurant/Car.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/GUI2/GuiFrame.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/GUI2/AddClient.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/restaurant/DeliveryMan.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/restaurant/Randomization.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/GUI2/DeliveryManInfo.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/restaurant/Road.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/GUI2/GuiMainFrame.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/restaurant/MealOrder.java</file>
+            <file>file:/C:/Users/Tomek/Desktop/obiektówka/Restaurant/src/GUI2/ClientInfo.java</file>
+        </group>
+    </open-files>
+</project-private>
